@@ -1,4 +1,4 @@
-# Docker Skills for AI Coding Agents
+.# Docker Skills for AI Coding Agents
 
 [![CI](https://github.com/docker/skills/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/docker/skills/actions/workflows/ci.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Specification-blue)](https://agentskills.io/specification)
